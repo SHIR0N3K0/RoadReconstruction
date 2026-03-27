@@ -1,12 +1,30 @@
-The goal of that project was to try to reproduce but in my own way a mechanic i've seen in a lot of different games, wich is a road/bridge/stairs which are fragmented and 
-when the player walk walk near their original location the parts return by themselves to give the player a path and when the player is no longer near the parts go back to
-float around.
+⚠️ Requirements
+Unreal Engine 5.6
+C++ project (this plugin is not compatible with Blueprint-only projects)
 
-Work Time: 7h (Most of the time was used to understand how chaos work, and how to adapt it to my need since i never used it before)
+This project focuses on recreating — with a custom implementation — a dynamic traversal mechanic inspired by various games.
 
+It simulates a fragmented structure (road, bridge, or stairs) that behaves as follows:
+
+- When the player approaches, scattered fragments reassemble into their original positions, forming a usable path.
+- When the player moves away, the structure deconstructs, and fragments return to a floating state.
+
+This system creates a responsive and visually dynamic environment driven by player proximity.
+________________________________________________________________________________________________________________________________________
+Development Time
+
+~7 hours
+
+Key focus areas:
+
+- Learning and experimenting with Chaos Physics
+- Adapting Chaos to support a controlled reconstruction system (first-time usage)
+
+________________________________________________________________________________________________________________________________________
+DEMO:
 [![Watch the video](https://github.com/user-attachments/assets/7adaa623-2a8a-426c-8ba1-9fa20e304b70)](https://github.com/user-attachments/assets/356ae664-c7e5-42e5-b274-644a1fc416a3)
-
-## 🛠️ How to Use
+________________________________________________________________________________________________________________________________________
+## 🛠️ Setup Guide
 
 1. Import or create a mesh.
 2. Place it in the level.
