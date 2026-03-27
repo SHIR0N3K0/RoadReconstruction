@@ -4,6 +4,8 @@ float around.
 
 Work Time: 7h (Most of the time was used to understand how chaos work, and how to adapt it to my need since i never used it before)
 
+[![Watch the video](https://github.com/user-attachments/assets/7adaa623-2a8a-426c-8ba1-9fa20e304b70)](https://github.com/user-attachments/assets/356ae664-c7e5-42e5-b274-644a1fc416a3)
+
 ## 🛠️ How to Use
 
 1. Import or create a mesh.
