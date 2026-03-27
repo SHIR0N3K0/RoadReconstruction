@@ -17,5 +17,6 @@ Work Time: 7h (Most of the time was used to understand how chaos work, and how t
 <br><img width="403" height="55" alt="Capture d&#39;écran 2026-03-27 101844" src="https://github.com/user-attachments/assets/4563cba1-dea8-4e8b-852e-36cc6d6930bc" />
 6. You now need to get the parts as mesh, for that you need to select all the parts in the Fracture Hierarchy Window, then click on ToMesh and Convert, you
 can now choose the destination folder.
-<br>https://github.com/user-attachments/assets/d1285e56-10a0-4f9b-af47-4a4ca72120e5
+<br>![Show_SelectParts](https://github.com/user-attachments/assets/482d7483-877b-42f4-8ba7-7bbb37a71ae3)
+<br><img width="678" height="262" alt="Show_ConvertToMesh" src="https://github.com/user-attachments/assets/9a2a36f9-105a-4f9f-9bbe-8478680b873f" />
 
