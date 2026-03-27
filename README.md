@@ -21,7 +21,6 @@ Key focus areas:
 - Adapting Chaos to support a controlled reconstruction system (first-time usage)
 
 ________________________________________________________________________________________________________________________________________
-DEMO:
 [![Watch the video](https://github.com/user-attachments/assets/7adaa623-2a8a-426c-8ba1-9fa20e304b70)](https://github.com/user-attachments/assets/356ae664-c7e5-42e5-b274-644a1fc416a3)
 ________________________________________________________________________________________________________________________________________
 ## 🛠️ Setup Guide
